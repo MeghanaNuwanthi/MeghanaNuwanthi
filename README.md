@@ -48,5 +48,9 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghanaNuwanthi&show_icons=true&theme=dark)
+
+---
+
 ⭐️ If you like my work, don’t forget to **star** my repositories or get in touch for collaboration opportunities!
 
