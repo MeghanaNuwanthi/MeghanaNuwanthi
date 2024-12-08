@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [nuwanthimeghana@gmail.com]
+- 📧 Email: [nuwanthimeghana@gmail.com](#)
 - 🔗 LinkedIn: [http://linkedin.com/in/meghana-nuwanthi-774](#)
 
 ---
