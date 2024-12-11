@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
----
-
 ## 🌟 About Me
 - 💡 **Tech Enthusiast** exploring the latest in technology and software development.
 - 🎓 **Software Engineering Student** at **CINEC Campus, Sri Lanka**.
