@@ -28,11 +28,12 @@ Welcome to my GitHub profile! Here's a little about me:
 #### Web Development:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
 
 #### Tools & Platforms:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 #### IDEs & Editors:
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -48,7 +49,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghanaNuwanthi&show_icons=true&theme=dark)
 
----
 
 ⭐️ If you like my work, don’t forget to **star** my repositories or get in touch for collaboration opportunities!
 
