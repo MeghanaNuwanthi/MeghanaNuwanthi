@@ -47,10 +47,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghanaNuwanthi&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaNuwanthi&layout=compact&theme=dark)
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MeghanaNuwanthi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MeghanaNuwanthi&layout=compact&langs_count=8&theme=algolia"/>
 
 
 ⭐️ If you like my work, don’t forget to **star** my repositories or get in touch for collaboration opportunities!
